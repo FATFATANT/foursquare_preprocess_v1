@@ -1,0 +1,32 @@
+nyc:
+  user_num: 877
+  category_num: 342
+  individual_poi: 4242
+  individual_in_collective_poi: 2932
+  total_individual_poi: 7174
+  collective_poi: 478
+  individual_check_ins: 55728
+  uncertain_check_ins: 45141
+  total_check_ins: 100869
+
+tky:
+  user_num: 2109
+  category_num: 316
+  individual_poi: 7311
+  individual_in_collective_poi: 4110
+  total_individual_poi: 11421
+  collective_poi: 293
+  individual_check_ins: 152435
+  uncertain_check_ins: 199522
+  total_check_ins: 351987
+
+sin:
+  user_num: 1536
+  category_num: 312
+  individual_poi: 3770
+  individual_in_collective_poi: 2248
+  total_individual_poi: 6018
+  collective_poi: 125
+  individual_check_ins: 69770
+  uncertain_check_ins: 66016
+  total_check_ins: 135786
